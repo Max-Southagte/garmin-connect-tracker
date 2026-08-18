@@ -1,5 +1,3 @@
-Absolutely — I'd keep the initial README fairly simple and let it evolve as the project does. You can copy this directly into `README.md`.
-
 # Garmin Dashboard
 
 A personal fitness dashboard that connects to Garmin Connect, stores Garmin data in a personal database, and presents it through a custom dashboard.
